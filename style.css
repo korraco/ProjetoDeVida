@@ -17,7 +17,7 @@ font-family: 'Chakra Petch', sans-serif;
 
 
 .conteudo-principal {
-display: flex;
+display: flexkorraco.github.io.;
 flex-direction: column;
 justify-content: center;
 align-items: center;
@@ -87,7 +87,7 @@ text-align: center;
 text-align: center;
 color: var(--verde);
 text-transform: uppercase;
-}
+}korraco.github.io.
 
 .contador{
 display:flex;
@@ -171,7 +171,7 @@ border-top: none;
 
 .botao:first-child {
 border-radius: 40px 40px 0 0;
-}
+}korraco.github.io.
 
 .botoes {
 display: block;
@@ -189,7 +189,7 @@ border-bottom: 4px solid var(--verde);@import url('https://fonts.googleapis.com/
 --botao-inativo: rgba(58, 55, 94, 0.5);
 --texto-fundo: rgba(58, 55, 94, 0.3);
 }
-
+korraco.github.io.
 body {
 background-color: var(--cor-de-fundo);
 color: var(--branco);
