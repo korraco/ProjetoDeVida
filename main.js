@@ -37,7 +37,7 @@ horas %= 24;
 if (tempoFinal > 0){
 return [dias,horas,minutos,segundos];
 } else {
-return [24,24,0,0];
+return [24,0,0,0];
 }
 }
 
